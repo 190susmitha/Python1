@@ -1,0 +1,13 @@
+strings : 
+Sequence of anything declared inside ' ' or " " or ''' ''' or """ """
+​
+a="Python is a programming language"
+print(a)
+​
+b='Python is a programming language'
+print(b)
+​
+c='''Python is a programming language
+Django is a framework for python 
+Django is used in webdevelopment'''
+print(c)

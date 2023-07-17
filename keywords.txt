@@ -1,0 +1,8 @@
+keywords: Those words whose functionality is already defined with the programming language..
+​
+# There are 35 keywords in python
+​
+# import keyword
+# print(keyword.kwlist)
+​
+# print(len(keyword.kwlist))

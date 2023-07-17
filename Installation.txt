@@ -1,0 +1,8 @@
+Installation:
+    Python.org --> downlaod 3.10.5 64bit(installer)
+        # Please make sure you clicked on the Add Python3.10.5 to Path checkbox..
+visual studio code for writing the code..
+https://code.visualstudio.com/download -- click on respective OS button..
+# Every python file has to be saved with .py as the extension..
+By Default visual studio code will take powershell as the default terminal..
+    # You have to select the option of commandprompt or cmd as the "select default profile"..
